@@ -1,6 +1,6 @@
 # ENPM673 Perception for Autonomous Robots - Computer Vision Projects
 
-This repository contains three computer vision projects completed as part of the ENPM673 Perception for Autonomous Robots course. Each project focuses on different aspects of computer vision and image processing techniques.
+This repository contains three computer vision projects completed as part of the Perception for Autonomous Robots. Each project focuses on different aspects of computer vision and image processing techniques.
 
 ## Repository Structure
 
@@ -8,15 +8,12 @@ This repository contains three computer vision projects completed as part of the
 .
 ├── Project1/
 │   ├── object_tracking/
-│   └── README.md
 ├── Project2/
 │   ├── corner_detection/
 │   ├── panorama_stitching/
-│   └── README.md
 ├── Project3/
 │   ├── camera_calibration/
 │   ├── stereo_vision/
-│   └── README.md
 └── README.md
 ```
 

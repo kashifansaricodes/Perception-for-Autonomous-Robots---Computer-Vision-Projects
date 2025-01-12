@@ -2,6 +2,12 @@
 
 ## Overview
 Implementation of an object detection and tracking system that analyzes the trajectory of a black object thrown against a wall.
+---
+
+![Screenshot from 2025-01-12 02-41-23](https://github.com/user-attachments/assets/c00af8ee-6933-4aa7-8a99-2717cb5cf8a3)
+
+![Screenshot from 2025-01-12 02-41-37](https://github.com/user-attachments/assets/59a8e4ba-54e1-4d33-834a-17fa728e1d41)
+
 
 ## Project Objectives
 1. Extract video frames using OpenCV
